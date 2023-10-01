@@ -5,7 +5,7 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     background-image: url("https://s3.amazonaws.com/iexplore_web/images/assets/000/020/162/full/15792625326_c56f7301c0_k.jpg?1497389360");
-    background-size: contain;
+    background-size: cover;
     text-align: center;
 }
 
